@@ -1,0 +1,2 @@
+<button bindtap="getData">点击获取数据</button>
+<text>{{datalist}}</text>
